@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://g0mx.netlify.app/"
 languageCode: en-us
 title: g0mx
 paginate: 5
