@@ -6,7 +6,7 @@ Tags: ["Fake-net","Malware Analysis"]
 draft: false
 weight: 1030
 cover: 
-    image: 
+    image: '![20230406150202](https://raw.githubusercontent.com/g0mxxm/blog_pictures/main/blog/Fake-net%20Cookbook/20230406150202.png)'
 ---
 
 # Fake-net Cookbook
