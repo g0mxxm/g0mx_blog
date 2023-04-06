@@ -1,3 +1,14 @@
+---
+title: "Fake-net Cookbook"
+description: "This is a cookbook for Fake-net!"
+date: 2023-02-23T15:02:06+08:00
+Tags: ["Fake-net","Malware Analysis"]
+draft: false
+weight: 1030
+cover: 
+    image: 
+---
+
 # Fake-net Cookbook
 在样本分析的过程中，若样本在访问的C2服务器或URL时，发现其已经下线或失效，那么恶意样本将会直接结束运行，那我们的分析将很难再进一步。Fake-net可以很好的解决这一问题，而不再需要我们花费时间自行搭建一个服务端来进行模拟通信。  
 ## 模拟https通信  
