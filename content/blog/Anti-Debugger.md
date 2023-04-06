@@ -3,7 +3,7 @@ title: "Anti Debugger"
 description: "The methods about anti-debugger on Windows & how to detect and bypass."
 date: 2023-02-23T15:02:06+08:00
 Tags: ["Anti Tech","Frida"]
-draft: false
+draft: yes
 weight: 1030
 cover: 
     image: 
