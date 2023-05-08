@@ -6,7 +6,7 @@ Tags: ["Malware Analysis","3CX","Supply Chain AttacK"]
 draft: false
 weight: 1020
 cover: 
-    image: '/cover/Malware.png'
+    image: '/cover/malware.jpg'
 ---
 
 # 3CX 供应链攻击  
