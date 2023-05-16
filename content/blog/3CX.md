@@ -2,7 +2,7 @@
 title: "3CX Supply Chain Attack Analysis"
 description: "This blog will tell something about 3CX Supply Chain Attack"
 date: 2023-04-05T15:00:00+08:00
-Tags: ["Malware Analysis","3CX","Supply Chain AttacK"]
+Tags: ["Malware Analysis","3CX","Supply Chain AttacK","Windows"]
 draft: false
 weight: 1020
 cover: 

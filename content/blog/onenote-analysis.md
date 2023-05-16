@@ -2,7 +2,7 @@
 title: "Onenote Malware Analysis"
 description: "This blog will discuss something about Onenote malware"
 date: 2023-03-05T15:00:00+08:00
-Tags: ["Malware Analysis","Onenote","Maldoc"]
+Tags: ["Malware Analysis","Onenote","Maldoc","Windows"]
 draft: false
 weight: 1019
 cover: 
