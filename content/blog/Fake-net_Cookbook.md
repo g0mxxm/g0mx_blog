@@ -2,7 +2,7 @@
 title: "Fake-net Cookbook"
 description: "This is a cookbook for Fake-net!"
 date: 2023-04-06T14:58:00+08:00
-Tags: ["Fake-net","Malware Analysis"]
+Tags: ["Fake-net","Malware Analysis","Cookbook"]
 draft: false
 weight: 1030
 cover: 
