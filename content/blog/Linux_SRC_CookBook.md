@@ -4,7 +4,7 @@ description: "This blog will record some commonly used commands in Linux src"
 date: 2023-02-23T15:00:00+08:00
 Tags: ["SRC","Cookbook","Linux"]
 draft: false
-weight: 1022
+weight: 1017
 cover: 
     image: ''
 ---
