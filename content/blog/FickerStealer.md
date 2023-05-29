@@ -4,7 +4,7 @@ description: "This blog will discuss something about FickerStealer and its packe
 date: 2023-05-29T11:05:00+08:00
 Tags: ["Malware Analysis","Stealer","Windows","packer"]
 draft: false
-weight: 1016
+weight: 1015
 cover: 
     image: '/cover/malware.jpg'
 ---
